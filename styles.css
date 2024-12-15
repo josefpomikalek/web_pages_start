@@ -3,3 +3,9 @@ body, html {
     margin: 0px;
     box-sizing: border-box;
 }
+
+/***** Navigation *****/
+
+nav ul li {
+    list-style-type: none;
+}
