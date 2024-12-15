@@ -8,4 +8,5 @@ body, html {
 
 nav ul li {
     list-style-type: none;
+    float: left;
 }
