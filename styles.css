@@ -9,11 +9,15 @@ nav {
     background: rgba(0,0,0,0.8);
 }
 
+nav ul {
+    width: 1020px;
+    margin: 0px auto;
+}
+
 nav ul li {
     width: 145px;
     list-style-type: none;
     float: left;
-    border: 1px solid red;
     text-align: center;
     line-height: 50px;
     font-size: 20px;
