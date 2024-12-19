@@ -28,6 +28,10 @@ nav ul li a {
     text-decoration: none;
 }
 
+nav ul li a:hover {
+    border-bottom: 2px solid orange;
+}
+
 .clearfix:after {
     content: "";
     display: table;
