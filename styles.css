@@ -37,3 +37,16 @@ nav ul li a:hover {
     display: table;
     clear: both;
 }
+
+/***** Main *****/
+.first-photo {
+    background: black;
+}
+
+.first-photo img {
+    display: block;
+    margin: 0px auto;
+    position: relative;
+    top: 100px;
+
+}
