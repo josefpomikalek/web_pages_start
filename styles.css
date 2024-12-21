@@ -71,3 +71,13 @@ main h2 span {
     margin-top: 0px;
     
 }
+
+/***** Footer *****/
+footer p {
+    background: #f5f5f7;
+    color: #86868b;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+}
