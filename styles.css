@@ -85,3 +85,17 @@ footer p {
 .macbook-text {
     font-size: 60px;
 }
+
+/***** Watch stránka *****/
+.watch-photo img {
+    display: block;
+    width: 500px;
+    margin: 0px auto;
+    position: relative;
+    top: 100px;
+    padding-bottom: 40px;
+ }
+
+.watch-photo {
+    background: black;
+}
