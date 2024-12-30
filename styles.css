@@ -99,3 +99,10 @@ footer p {
 .watch-photo {
     background: black;
 }
+
+main p {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 60px;
+}
